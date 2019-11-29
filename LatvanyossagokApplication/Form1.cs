@@ -15,6 +15,7 @@ namespace LatvanyossagokApplication
         public Form1()
         {
             InitializeComponent();
+            //
         }
     }
 }
